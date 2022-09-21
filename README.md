@@ -1,5 +1,5 @@
 # GPT2WordSalad
-A quick gpt-2 model finetuned on my movie reviews and scholarship essays. Produces gibberish with less than 100 runs and is super overfit past it. Garbage in, Garbage out. And I can't really say that the quality of my normal writing is anything but garbage - so the combination of bad writing and bad techniques just doesn't really work too well.
+A quick gpt-2 model finetuned on my movie reviews and scholarship essays. Produces gibberish-ish with less than 100 runs and is kinda overfit past it. Garbage in, Garbage out. And I can't really say that the quality of my normal writing is anything but garbage and I didn't really clean up the data at all - so the combination of bad writing and bad techniques just doesn't really work too well. Still produces pretty interesting content though.
 
 You can find the model here : https://drive.google.com/drive/folders/1k22oIAjGx8pK_FWAt9uLdOMRtwPSwf-d?usp=sharing
 
