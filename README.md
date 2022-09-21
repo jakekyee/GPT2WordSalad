@@ -1,6 +1,8 @@
 # GPT2WordSalad
 A quick gpt-2 model finetuned on my movie reviews and scholarship essays. Produces gibberish with less than 100 runs and is super overfit past it. Garbage in, Garbage out. And I can't really say that the quality of my normal writing is anything but garbage - so the combination of bad writing and bad techniques just doesn't really work too well.
 
+You can find the model here : https://drive.google.com/drive/folders/1k22oIAjGx8pK_FWAt9uLdOMRtwPSwf-d?usp=sharing
+
 ###  Example Excerpts
 
 This was the first sample text produced after the 50th model. I don't know where the wikipedia link came from - The gene stuff is probably from my Selfish Gene review -  but as far as I can tell Narnoo is a comepletely made up word.
